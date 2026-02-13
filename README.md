@@ -7,4 +7,4 @@ I love solving complex problems, automating processes, and building reliable inf
 - ☁️ **Currently focusing on:** Cloud Infrastructure, CI/CD pipelines, and Automation.
 - 🛠️ **Background:** Strong foundation in Networking and System Administration.
 - 🌱 **Always learning:** New tools to make deployments faster and systems smarter.
-- 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dimitris-kornarakis)
+- 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dimitris-kornarakis-24236b2a9/)
