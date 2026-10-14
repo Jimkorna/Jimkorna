@@ -1,10 +1,12 @@
-## Hi there 👋, I'm Dimitris
+## Dimitris
 
-**DevOps Engineer | Tech Enthusiast**
+DevOps engineer in Greece. I look after a hybrid setup: Kubernetes on-prem
+plus AWS, mostly managed with Terraform/OpenTofu and Bitbucket Pipelines.
 
-I love solving complex problems, automating processes, and building reliable infrastructure. My goal is to bridge the gap between development and operations seamlessly.
+Before this I did networking and sysadmin work, which is why I still
+reach for `tcpdump` before I blame the application.
 
-- ☁️ **Currently focusing on:** Cloud Infrastructure, CI/CD pipelines, and Automation.
-- 🛠️ **Background:** Strong foundation in Networking and System Administration.
-- 🌱 **Always learning:** New tools to make deployments faster and systems smarter.
-- 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dimitris-kornarakis-24236b2a9/)
+What's here: small, self-contained Terraform projects I build to
+try ideas out (ECS Fargate behind an ALB, S3 + CloudFront, RDS).
+
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/dimitris-kornarakis-24236b2a9/)
