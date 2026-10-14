@@ -1,7 +1,7 @@
 ## Dimitris
 
 DevOps engineer in Greece. I look after a hybrid setup: Kubernetes on-prem
-plus AWS, mostly managed with Terraform/OpenTofu and Bitbucket Pipelines.
+plus AWS and Aure, mostly managed with Terraform/OpenTofu and Bitbucket Pipelines.
 
 Before this I did networking and sysadmin work, which is why I still
 reach for `tcpdump` before I blame the application.
